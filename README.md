@@ -55,7 +55,9 @@ and separate it into OTT platforms.
 REFERENCES 
 • https://labelyourdata.com/articles/movie-recommendation-with-machine-learning - :~:text=Movie%20recommendation%20systems%20use%20a,filtering%20and%20collaborative%20filtering
 %20systems. 
+
 • https://towardsdatascience.com/how-to-build-a-movie-recommendation-system-67e321339109 
+
 • https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv 
 
 • https://www.youtube.com/watch?app=desktop&v=1xtrIEwY_zY&ab_channel=Cam
